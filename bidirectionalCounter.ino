@@ -63,7 +63,7 @@ void loop(){
         digitalWrite(segment[i],LOW);
     }
 
-    // delay(100);
+   delay(100);
 
     switch(count){
 
